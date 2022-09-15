@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+
+.orange {
+    color: #F7931A;
+}
+
+.dark {
+    color: #4D4D4D;
+}
