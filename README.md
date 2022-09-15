@@ -1,4 +1,4 @@
-# Kodluyoruz Final React Task - Cripto-currency App -
+# Kodluyoruz Final React Task - Cripto-currency App 
 
 
 
