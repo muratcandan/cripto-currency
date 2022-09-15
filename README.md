@@ -3,7 +3,7 @@
 
 
 ## Live Demo
-- [Start Playing](https://cbm-tictocto.netlify.app/)
+- [Start Playing]([https://cbm-tictocto.netlify.app/](https://cripto-currency-murat-candan.netlify.app/))
 
 ## Contents
 
