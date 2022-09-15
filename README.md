@@ -3,7 +3,7 @@
 
 
 ## Live Demo
-- [Start Playing]((https://cripto-currency-murat-candan.netlify.app/))
+- [Click Here](https://cripto-currency-murat-candan.netlify.app/)
 
 ## Contents
 
