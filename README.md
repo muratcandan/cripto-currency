@@ -15,12 +15,10 @@
 
 
 
-## To install and run:
+## Images:
 
-```
-npm install
-```
 
-```
-npm start
-```
+![Main Page](https://github.com/muratcandan/cripto-currency/blob/main/public/main_page.png)
+
+
+![Inside Page](https://github.com/muratcandan/cripto-currency/blob/main/public/inside_page.png)
