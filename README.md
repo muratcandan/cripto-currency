@@ -1,7 +1,7 @@
 # Kodluyoruz Final React Task - Cripto-currency App 
 
-- This site is the graduation project of Kodluyoruz Frontend Bootcamp.
-- The site was created using React and getting the information with the REST API.
+- This website is the graduation project of Kodluyoruz Frontend Bootcamp.
+- The website was created using React and getting the information with the REST API.
 
 
 
